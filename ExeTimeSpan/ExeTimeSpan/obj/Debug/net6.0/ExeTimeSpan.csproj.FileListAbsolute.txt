@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\bin\Debug\net6.0\ExeTimeSpan.exe
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\bin\Debug\net6.0\ExeTimeSpan.deps.json
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\bin\Debug\net6.0\ExeTimeSpan.runtimeconfig.json
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\bin\Debug\net6.0\ExeTimeSpan.dll
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\bin\Debug\net6.0\ExeTimeSpan.pdb
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ExeTimeSpan.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ExeTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ExeTimeSpan.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ExeTimeSpan.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ExeTimeSpan.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ExeTimeSpan.dll
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\refint\ExeTimeSpan.dll
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ExeTimeSpan.pdb
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ExeTimeSpan.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeTimeSpan\ExeTimeSpan\obj\Debug\net6.0\ref\ExeTimeSpan.dll

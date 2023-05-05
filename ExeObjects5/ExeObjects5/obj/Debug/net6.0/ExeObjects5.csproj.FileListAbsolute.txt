@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\bin\Debug\net6.0\ExeObjects5.exe
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\bin\Debug\net6.0\ExeObjects5.deps.json
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\bin\Debug\net6.0\ExeObjects5.runtimeconfig.json
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\bin\Debug\net6.0\ExeObjects5.dll
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\bin\Debug\net6.0\ExeObjects5.pdb
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ExeObjects5.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ExeObjects5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ExeObjects5.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ExeObjects5.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ExeObjects5.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ExeObjects5.dll
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\refint\ExeObjects5.dll
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ExeObjects5.pdb
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ExeObjects5.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeObjects5\ExeObjects5\obj\Debug\net6.0\ref\ExeObjects5.dll

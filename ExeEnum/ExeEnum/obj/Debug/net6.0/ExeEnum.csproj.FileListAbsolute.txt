@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeEnum\ExeEnum\bin\Debug\net6.0\ExeEnum.exe
+C:\Programação\curso-C#\ExeEnum\ExeEnum\bin\Debug\net6.0\ExeEnum.deps.json
+C:\Programação\curso-C#\ExeEnum\ExeEnum\bin\Debug\net6.0\ExeEnum.runtimeconfig.json
+C:\Programação\curso-C#\ExeEnum\ExeEnum\bin\Debug\net6.0\ExeEnum.dll
+C:\Programação\curso-C#\ExeEnum\ExeEnum\bin\Debug\net6.0\ExeEnum.pdb
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ExeEnum.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ExeEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ExeEnum.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ExeEnum.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ExeEnum.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ExeEnum.dll
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\refint\ExeEnum.dll
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ExeEnum.pdb
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ExeEnum.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeEnum\ExeEnum\obj\Debug\net6.0\ref\ExeEnum.dll

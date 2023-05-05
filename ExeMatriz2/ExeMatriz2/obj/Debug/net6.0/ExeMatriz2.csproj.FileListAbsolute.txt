@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\bin\Debug\net6.0\ExeMatriz2.exe
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\bin\Debug\net6.0\ExeMatriz2.deps.json
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\bin\Debug\net6.0\ExeMatriz2.runtimeconfig.json
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\bin\Debug\net6.0\ExeMatriz2.dll
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\bin\Debug\net6.0\ExeMatriz2.pdb
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ExeMatriz2.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ExeMatriz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ExeMatriz2.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ExeMatriz2.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ExeMatriz2.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ExeMatriz2.dll
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\refint\ExeMatriz2.dll
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ExeMatriz2.pdb
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ExeMatriz2.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeMatriz2\ExeMatriz2\obj\Debug\net6.0\ref\ExeMatriz2.dll

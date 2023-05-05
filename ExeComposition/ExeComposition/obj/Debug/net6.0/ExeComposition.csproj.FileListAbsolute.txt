@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeComposition\ExeComposition\bin\Debug\net6.0\ExeComposition.exe
+C:\Programação\curso-C#\ExeComposition\ExeComposition\bin\Debug\net6.0\ExeComposition.deps.json
+C:\Programação\curso-C#\ExeComposition\ExeComposition\bin\Debug\net6.0\ExeComposition.runtimeconfig.json
+C:\Programação\curso-C#\ExeComposition\ExeComposition\bin\Debug\net6.0\ExeComposition.dll
+C:\Programação\curso-C#\ExeComposition\ExeComposition\bin\Debug\net6.0\ExeComposition.pdb
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ExeComposition.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ExeComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ExeComposition.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ExeComposition.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ExeComposition.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ExeComposition.dll
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\refint\ExeComposition.dll
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ExeComposition.pdb
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ExeComposition.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeComposition\ExeComposition\obj\Debug\net6.0\ref\ExeComposition.dll

@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\bin\Debug\net6.0\ExeStringFunctions.exe
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\bin\Debug\net6.0\ExeStringFunctions.deps.json
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\bin\Debug\net6.0\ExeStringFunctions.runtimeconfig.json
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\bin\Debug\net6.0\ExeStringFunctions.dll
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\bin\Debug\net6.0\ExeStringFunctions.pdb
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ExeStringFunctions.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ExeStringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ExeStringFunctions.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ExeStringFunctions.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ExeStringFunctions.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ExeStringFunctions.dll
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\refint\ExeStringFunctions.dll
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ExeStringFunctions.pdb
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ExeStringFunctions.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeStringFunctions\ExeStringFunctions\obj\Debug\net6.0\ref\ExeStringFunctions.dll

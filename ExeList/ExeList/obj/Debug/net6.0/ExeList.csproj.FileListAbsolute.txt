@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeList\ExeList\bin\Debug\net6.0\ExeList.exe
+C:\Programação\curso-C#\ExeList\ExeList\bin\Debug\net6.0\ExeList.deps.json
+C:\Programação\curso-C#\ExeList\ExeList\bin\Debug\net6.0\ExeList.runtimeconfig.json
+C:\Programação\curso-C#\ExeList\ExeList\bin\Debug\net6.0\ExeList.dll
+C:\Programação\curso-C#\ExeList\ExeList\bin\Debug\net6.0\ExeList.pdb
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ExeList.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ExeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ExeList.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ExeList.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ExeList.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ExeList.dll
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\refint\ExeList.dll
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ExeList.pdb
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ExeList.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeList\ExeList\obj\Debug\net6.0\ref\ExeList.dll

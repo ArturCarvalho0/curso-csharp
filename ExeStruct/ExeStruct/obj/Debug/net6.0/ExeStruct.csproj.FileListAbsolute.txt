@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeStruct\ExeStruct\bin\Debug\net6.0\ExeStruct.exe
+C:\Programação\curso-C#\ExeStruct\ExeStruct\bin\Debug\net6.0\ExeStruct.deps.json
+C:\Programação\curso-C#\ExeStruct\ExeStruct\bin\Debug\net6.0\ExeStruct.runtimeconfig.json
+C:\Programação\curso-C#\ExeStruct\ExeStruct\bin\Debug\net6.0\ExeStruct.dll
+C:\Programação\curso-C#\ExeStruct\ExeStruct\bin\Debug\net6.0\ExeStruct.pdb
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ExeStruct.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ExeStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ExeStruct.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ExeStruct.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ExeStruct.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ExeStruct.dll
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\refint\ExeStruct.dll
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ExeStruct.pdb
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ExeStruct.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeStruct\ExeStruct\obj\Debug\net6.0\ref\ExeStruct.dll

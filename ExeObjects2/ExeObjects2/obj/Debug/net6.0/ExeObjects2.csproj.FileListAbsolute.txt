@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\bin\Debug\net6.0\ExeObjects2.exe
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\bin\Debug\net6.0\ExeObjects2.deps.json
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\bin\Debug\net6.0\ExeObjects2.runtimeconfig.json
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\bin\Debug\net6.0\ExeObjects2.dll
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\bin\Debug\net6.0\ExeObjects2.pdb
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ExeObjects2.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ExeObjects2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ExeObjects2.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ExeObjects2.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ExeObjects2.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ExeObjects2.dll
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\refint\ExeObjects2.dll
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ExeObjects2.pdb
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ExeObjects2.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeObjects2\ExeObjects2\obj\Debug\net6.0\ref\ExeObjects2.dll

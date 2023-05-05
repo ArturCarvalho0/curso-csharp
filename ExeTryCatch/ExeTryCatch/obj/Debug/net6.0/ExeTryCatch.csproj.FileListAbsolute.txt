@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\bin\Debug\net6.0\ExeTryCatch.exe
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\bin\Debug\net6.0\ExeTryCatch.deps.json
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\bin\Debug\net6.0\ExeTryCatch.runtimeconfig.json
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\bin\Debug\net6.0\ExeTryCatch.dll
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\bin\Debug\net6.0\ExeTryCatch.pdb
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ExeTryCatch.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ExeTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ExeTryCatch.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ExeTryCatch.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ExeTryCatch.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ExeTryCatch.dll
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\refint\ExeTryCatch.dll
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ExeTryCatch.pdb
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ExeTryCatch.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeTryCatch\ExeTryCatch\obj\Debug\net6.0\ref\ExeTryCatch.dll

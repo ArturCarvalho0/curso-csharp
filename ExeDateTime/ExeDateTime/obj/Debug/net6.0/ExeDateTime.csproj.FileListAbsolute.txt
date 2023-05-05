@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\bin\Debug\net6.0\ExeDateTime.exe
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\bin\Debug\net6.0\ExeDateTime.deps.json
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\bin\Debug\net6.0\ExeDateTime.runtimeconfig.json
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\bin\Debug\net6.0\ExeDateTime.dll
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\bin\Debug\net6.0\ExeDateTime.pdb
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ExeDateTime.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ExeDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ExeDateTime.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ExeDateTime.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ExeDateTime.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ExeDateTime.dll
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\refint\ExeDateTime.dll
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ExeDateTime.pdb
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ExeDateTime.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeDateTime\ExeDateTime\obj\Debug\net6.0\ref\ExeDateTime.dll

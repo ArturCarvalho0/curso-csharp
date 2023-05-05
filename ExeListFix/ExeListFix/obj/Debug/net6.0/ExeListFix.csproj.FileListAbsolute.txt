@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeListFix\ExeListFix\bin\Debug\net6.0\ExeListFix.exe
+C:\Programação\curso-C#\ExeListFix\ExeListFix\bin\Debug\net6.0\ExeListFix.deps.json
+C:\Programação\curso-C#\ExeListFix\ExeListFix\bin\Debug\net6.0\ExeListFix.runtimeconfig.json
+C:\Programação\curso-C#\ExeListFix\ExeListFix\bin\Debug\net6.0\ExeListFix.dll
+C:\Programação\curso-C#\ExeListFix\ExeListFix\bin\Debug\net6.0\ExeListFix.pdb
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ExeListFix.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ExeListFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ExeListFix.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ExeListFix.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ExeListFix.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ExeListFix.dll
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\refint\ExeListFix.dll
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ExeListFix.pdb
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ExeListFix.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeListFix\ExeListFix\obj\Debug\net6.0\ref\ExeListFix.dll

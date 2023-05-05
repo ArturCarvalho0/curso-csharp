@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\Course\Course\bin\Debug\net6.0\Course.exe
+C:\Programação\curso-C#\Course\Course\bin\Debug\net6.0\Course.deps.json
+C:\Programação\curso-C#\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\Programação\curso-C#\Course\Course\bin\Debug\net6.0\Course.dll
+C:\Programação\curso-C#\Course\Course\bin\Debug\net6.0\Course.pdb
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\Course.dll
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\refint\Course.dll
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\Course.pdb
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\Programação\curso-C#\Course\Course\obj\Debug\net6.0\ref\Course.dll

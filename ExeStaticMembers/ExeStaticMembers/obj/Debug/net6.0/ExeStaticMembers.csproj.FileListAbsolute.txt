@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\bin\Debug\net6.0\ExeStaticMembers.exe
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\bin\Debug\net6.0\ExeStaticMembers.deps.json
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\bin\Debug\net6.0\ExeStaticMembers.runtimeconfig.json
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\bin\Debug\net6.0\ExeStaticMembers.dll
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\bin\Debug\net6.0\ExeStaticMembers.pdb
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ExeStaticMembers.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ExeStaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ExeStaticMembers.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ExeStaticMembers.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ExeStaticMembers.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ExeStaticMembers.dll
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\refint\ExeStaticMembers.dll
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ExeStaticMembers.pdb
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ExeStaticMembers.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeStaticMembers\ExeStaticMembers\obj\Debug\net6.0\ref\ExeStaticMembers.dll

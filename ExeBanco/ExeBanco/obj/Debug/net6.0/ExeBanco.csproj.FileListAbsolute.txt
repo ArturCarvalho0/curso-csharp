@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeBanco\ExeBanco\bin\Debug\net6.0\ExeBanco.exe
+C:\Programação\curso-C#\ExeBanco\ExeBanco\bin\Debug\net6.0\ExeBanco.deps.json
+C:\Programação\curso-C#\ExeBanco\ExeBanco\bin\Debug\net6.0\ExeBanco.runtimeconfig.json
+C:\Programação\curso-C#\ExeBanco\ExeBanco\bin\Debug\net6.0\ExeBanco.dll
+C:\Programação\curso-C#\ExeBanco\ExeBanco\bin\Debug\net6.0\ExeBanco.pdb
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ExeBanco.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ExeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ExeBanco.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ExeBanco.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ExeBanco.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ExeBanco.dll
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\refint\ExeBanco.dll
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ExeBanco.pdb
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ExeBanco.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeBanco\ExeBanco\obj\Debug\net6.0\ref\ExeBanco.dll

@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\bin\Debug\net6.0\ExeHeritage.exe
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\bin\Debug\net6.0\ExeHeritage.deps.json
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\bin\Debug\net6.0\ExeHeritage.runtimeconfig.json
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\bin\Debug\net6.0\ExeHeritage.dll
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\bin\Debug\net6.0\ExeHeritage.pdb
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ExeHeritage.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ExeHeritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ExeHeritage.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ExeHeritage.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ExeHeritage.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ExeHeritage.dll
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\refint\ExeHeritage.dll
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ExeHeritage.pdb
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ExeHeritage.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeHeritage\ExeHeritage\obj\Debug\net6.0\ref\ExeHeritage.dll

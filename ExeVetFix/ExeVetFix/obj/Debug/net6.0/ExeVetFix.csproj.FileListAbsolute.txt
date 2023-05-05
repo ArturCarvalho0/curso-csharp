@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\bin\Debug\net6.0\ExeVetFix.exe
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\bin\Debug\net6.0\ExeVetFix.deps.json
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\bin\Debug\net6.0\ExeVetFix.runtimeconfig.json
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\bin\Debug\net6.0\ExeVetFix.dll
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\bin\Debug\net6.0\ExeVetFix.pdb
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ExeVetFix.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ExeVetFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ExeVetFix.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ExeVetFix.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ExeVetFix.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ExeVetFix.dll
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\refint\ExeVetFix.dll
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ExeVetFix.pdb
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ExeVetFix.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeVetFix\ExeVetFix\obj\Debug\net6.0\ref\ExeVetFix.dll

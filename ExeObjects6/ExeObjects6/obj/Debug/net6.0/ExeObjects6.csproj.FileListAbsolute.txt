@@ -1,0 +1,15 @@
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\bin\Debug\net6.0\ExeObjects6.exe
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\bin\Debug\net6.0\ExeObjects6.deps.json
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\bin\Debug\net6.0\ExeObjects6.runtimeconfig.json
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\bin\Debug\net6.0\ExeObjects6.dll
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\bin\Debug\net6.0\ExeObjects6.pdb
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ExeObjects6.csproj.AssemblyReference.cache
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ExeObjects6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ExeObjects6.AssemblyInfoInputs.cache
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ExeObjects6.AssemblyInfo.cs
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ExeObjects6.csproj.CoreCompileInputs.cache
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ExeObjects6.dll
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\refint\ExeObjects6.dll
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ExeObjects6.pdb
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ExeObjects6.genruntimeconfig.cache
+C:\Programação\curso-C#\ExeObjects6\ExeObjects6\obj\Debug\net6.0\ref\ExeObjects6.dll
